@@ -1,6 +1,6 @@
-491af8679cbf094732defbc8f67ad29a *DESCRIPTION
-3a2669f0313cdce91ff3b14bc883e1f7 *NAMESPACE
-5552d796ae1ea4caaf04ae04abaac53d *R/RVCompare.R
+257f42a8610a2e5fda7e2b63a8f10e6f *DESCRIPTION
+69258cb0407e8b4ca6bd11afc1470558 *NAMESPACE
+257202da21c0beb09e4d3ba08b30191f *R/RVCompare.R
 1c9641e63166faa9f68ede417e4f5664 *R/RcppExports.R
 e2215b54f98545d10b54859675321d4a *man/CdFromDensities.Rd
 28907a3bae26fb1959ee6a0e272b00ec *man/CdFromProbMassFunctions.Rd
@@ -26,5 +26,5 @@ d45d2d17f5ed45e92e89c61a79b4991c *man/plot_Y_AB.Rd
 9c0731f331da3dcc148db7f1fea6eb19 *man/sampleFromDensity.Rd
 40a1706158c07a1c2e4263281c908ef6 *man/uniformDensity.Rd
 b36d3524d2465377185cea2dd8555e34 *man/xHasEnoughValues.Rd
-46ded1cfc25745350fa220d31cee463e *src/RcppExports.cpp
+1616272f6e341cfe4be1b3347d79da87 *src/RcppExports.cpp
 c652a619e6705e3fcb0ee934b1623133 *src/code.cpp
