@@ -7,6 +7,7 @@
 #' @import Rcpp ggplot2 pracma
 #' @useDynLib RVCompare
 #' @name RVCompare
+#' @aliases RVCompare-package
 NULL
 
 
@@ -1665,10 +1666,9 @@ helperTrapezoidRule <- function(densitiesVec) {
 #' Helper function for get_Y_AB_bounds_bootstrap.
 #'
 #' The density corresponding to the position in index j is computed, given the SORTED ranks, and r_max
-#' @param sortedRanks the sorted ranks of either the observed X_A or X_B.
-#' @param r_max The largest rank.
+#' @param rank_interval_mult the rank interval vector. See `ranksOfObserved`.
 #' @param j_max the largest index that will be used.
-#' @param cumulative wether the integrable values should be cumulative or not. Cumulative values used in the estimation of the empirical distribution.
+#' @param cumulative whether the integrable values should be cumulative or not. Cumulative values used in the estimation of the empirical distribution.
 #' @keywords internal
 #' @import Rcpp
 #' @examples
@@ -1700,9 +1700,4 @@ helper_from_ranks_to_integrable_values <- function(rank_interval_mult, j_max, cu
 
 
 }
-
-
-
-
-
 

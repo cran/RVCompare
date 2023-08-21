@@ -11,13 +11,11 @@ helper_from_ranks_to_integrable_values(
 )
 }
 \arguments{
+\item{rank_interval_mult}{the rank interval vector. See `ranksOfObserved`.}
+
 \item{j_max}{the largest index that will be used.}
 
-\item{cumulative}{wether the integrable values should be cumulative or not. Cumulative values used in the estimation of the empirical distribution.}
-
-\item{sortedRanks}{the sorted ranks of either the observed X_A or X_B.}
-
-\item{r_max}{The largest rank.}
+\item{cumulative}{whether the integrable values should be cumulative or not. Cumulative values used in the estimation of the empirical distribution.}
 }
 \value{
 the probability density in this point

@@ -1,12 +1,12 @@
-dd32fd26f52bdb2cb5e79f9f8e028707 *DESCRIPTION
+57d24cd6d28601b30c7573560b810799 *DESCRIPTION
 69258cb0407e8b4ca6bd11afc1470558 *NAMESPACE
-add5f1962cf7240e475c5e4adb048292 *R/RVCompare.R
+f9c55830feeeca3ae7b9859ff4fd0b78 *R/RVCompare.R
 1c9641e63166faa9f68ede417e4f5664 *R/RcppExports.R
 d750816b7e296a1f66e0edda22c667be *README.md
 e2215b54f98545d10b54859675321d4a *man/CdFromDensities.Rd
 28907a3bae26fb1959ee6a0e272b00ec *man/CdFromProbMassFunctions.Rd
 bc9c90684944655f354efbaf3cb252d8 *man/CpFromDensities.Rd
-5579b01c7488abb755b194a4c47829b7 *man/RVCompare.Rd
+38643a7551aa039d03dcf0a9c96d287b *man/RVCompare.Rd
 e22e01515cdeffc371649eec325650c9 *man/coerceToDifferenceArea.Rd
 0cdf9f29d6682660ed24a0c773595860 *man/cpp_helper_from_ranks_to_integrable_values.Rd
 06fe45bb587a90d67d95fe1c126a2b49 *man/cumulativeFromDensity.Rd
@@ -15,7 +15,7 @@ a718af46ede577743675f58b9b0cbbe8 *man/getEmpiricalCumulativeDistributions.Rd
 42165c6ad648dd082af83f7a6ceefa89 *man/get_Y_AB_bounds_DKW.Rd
 ecf3793597dc28b31c28f513b1399292 *man/get_Y_AB_bounds_bootstrap.Rd
 5bb684e77ebbd7c186a7452da4829d57 *man/helperTrapezoidRule.Rd
-d16a13631eac785dbd41eee4d8352a92 *man/helper_from_ranks_to_integrable_values.Rd
+b9b5d904d609c81dcd0a097e294190c6 *man/helper_from_ranks_to_integrable_values.Rd
 de2b6472da00b7d096857094881e31e0 *man/isFunctionDensity.Rd
 690be6309b1b4d36ed4cd71c02e7bd7e *man/isXlimsValid.Rd
 43615fb53d73be0136332bcf42bfa370 *man/lowestCommonMultiple.Rd
